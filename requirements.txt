@@ -1,5 +1,5 @@
 Django
 -e ../django-j2fa
 django-extensions
-psycopg2==2.9.3 --no-binary 2.9.3
+psycopg>=3.1.8
 

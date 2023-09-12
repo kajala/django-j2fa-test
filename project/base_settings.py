@@ -69,7 +69,7 @@ WSGI_APPLICATION = 'project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'django_j2fa_test',
         'USER': 'dev',
         'PASSWORD': 'dev',
