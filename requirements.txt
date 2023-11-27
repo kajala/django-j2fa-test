@@ -2,4 +2,4 @@ Django
 -e ../django-j2fa
 django-extensions
 psycopg>=3.1.8
-
+django-jutil>=3.11.14
